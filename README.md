@@ -32,7 +32,7 @@ The purpose of this analysis was to create a deep learning tool that will help t
 
 # Summary
 
-In this challenge, I created a model that is does not produce reliable outputs. The best way I can think of to create a better model is to utilize the keras tuner to determine the optimal conditions for such a model via a function. 
+In this challenge, I created a model that is does not produce reliable outputs. Instead, my model produced a loss of 0.55 and maintained a 0.74 accuracy even during optimization. The best way I can think of to create a better model is to utilize the keras tuner to determine the optimal conditions for such a model via a function. 
 
 ### References
 
